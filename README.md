@@ -7,8 +7,7 @@ Full Stack Developer
 As a recent graduate from SAIT's Software Development program, I am full of enthusiasm to embark on my journey as a full stack developer. Equipped with a solid foundation in programming languages, frameworks, and project management, I am eager to contribute my skills and expertise to create dynamic, user-centric applications. Passionate about problem-solving and driven by the desire to continuously learn and grow, I am determined to be a valuable asset in the software development industry. With a keen eye for detail and a passion for innovation, I am excited to collaborate with diverse teams and leverage emerging technologies to deliver exceptional solutions that leave a lasting impact on users and businesses alike. My ultimate goal is to drive progress, enhance user experiences, and make a positive mark on the ever-evolving landscape of software development.
 
 * 🌍  I'm based in Calgary Alberta
-* ✉️  You can contact me at [ivor.lewis@gmail.com](mailto:ivor.lewis@gmail.com)
-* 🧠  I'm learning TypeScript
+* 🧠  I'm currently learning TypeScript
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills
