@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-As a recent graduate from SAIT's Software Development program, I am full of enthusiasm to embark on my journey as a full stack developer. Equipped with a solid foundation in programming languages, frameworks, and project management, I am eager to contribute my skills and expertise to create dynamic, user-centric applications. Passionate about problem-solving and driven by the desire to continuously learn and grow, I am determined to be a valuable asset in the software development industry. With a keen eye for detail and a passion for innovation, I am excited to collaborate with diverse teams and leverage emerging technologies to deliver exceptional solutions that leave a lasting impact on users and businesses alike. My ultimate goal is to drive progress, enhance user experiences, and make a positive mark on the ever-evolving landscape of software development.
+Junior developer with a strong foundation in programming and a passion for problem-solving. Always eager to learn and improve, I enjoy tackling challenges and building practical solutions through code.
 
 * 🌍  I'm based in Calgary Alberta
 * 🧠  I'm currently learning TypeScript
